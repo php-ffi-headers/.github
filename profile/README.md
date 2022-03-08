@@ -16,7 +16,7 @@ an issue](https://github.com/php-ffi-libs/.github/issues).
 
 ### Headers
 
-| Library                                                | Version                                                           | Status                                                                             |
-|--------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [GLFW3](https://github.com/php-ffi-libs/glfw3-headers) | ![version](https://poser.pugx.org/ffi-libs/glfw3-headers/version) | ![status](https://github.com/php-ffi-libs/glfw3-headers/workflows/build/badge.svg) |
-| [SDL2](https://github.com/php-ffi-libs/sdl2-headers)   | ![version](https://poser.pugx.org/ffi-libs/sdl2-headers/version)  | ![status](https://github.com/php-ffi-libs/sdl2-headers/workflows/build/badge.svg)  |
+| Library                                                | Library Version                                                   | Compat Version                                                  | Status                                                                             |
+|--------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [GLFW3](https://github.com/php-ffi-libs/glfw3-headers) | ![version](https://poser.pugx.org/ffi-libs/glfw3-headers/version) | ![version](https://img.shields.io/badge/GLFW3-3.3.6-cc3c20.svg) | ![status](https://github.com/php-ffi-libs/glfw3-headers/workflows/build/badge.svg) |
+| [SDL2](https://github.com/php-ffi-libs/sdl2-headers)   | ![version](https://poser.pugx.org/ffi-libs/sdl2-headers/version)  | ![version](https://img.shields.io/badge/SDL2-2.0.20-cc3c20.svg) | ![status](https://github.com/php-ffi-libs/sdl2-headers/workflows/build/badge.svg)  |
