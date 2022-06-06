@@ -33,7 +33,6 @@ interested in with the addition of support for this target platform.
 - **Compat Version** - The version of the original C library that the PHP
   headers are compatible with.
 - **Source Version** - Current latest release version of the original C library.
-  - ❌ - Indicates that it is not possible to automatically track the version.
 - **Status** - CI build status.
 
 <center>
